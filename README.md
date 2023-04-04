@@ -1,11 +1,13 @@
 <h1>### Hello World! 👋</h1>
-<p class="observation">(clássico)</p>
-<hr class="new1">
-</hr>
+<p style="font-size:10px;">(clássico)</p>
+
+<hr style="border-top:1px solid;"></hr>
+
 Meu nome é Sidnei, Desenvolvedor Full-Stack de dia e protejo os livros de poeira durante a noite
 (@blade-ui-kit,@thenpingme,@pestphp);
-<hr class="new1">
-</hr>
+
+<hr stle="border-top:1px solid;"></hr>
+
 <lo>
   <li>Desenvolvedor/Engenheiro de software/Tech Lead</li>
   <li>Bacharelado em Sistemas de Informação</li>
@@ -13,21 +15,19 @@ Meu nome é Sidnei, Desenvolvedor Full-Stack de dia e protejo os livros de poeir
 </lo>
 
 <h2>
-  <font >🌱</font>
-  <font >O que eu faço e o que eu fiz?</font>
+  <font>🌱</font>
+  <font>O que eu faço e o que eu fiz?</font>
 </h2>
-Desenvolvimento da experiencia Open Finance PF no banco Next
-Desenvolvimento da experiencia Open Finance PJ no banco Itaú
-Desenvolvimento do fluxo devolução Pix Web PF
-Redesenho do fluxo de Pagamento Web PF
-Redesenho do fluxo de Transferencia Web PF
 
-<style>
-  hr.new1 {
-    border-top: 1px solid;
-  }
+Um ano no Banco Next onde atuei nos projetos:
+<lo>
+  <li>Desenvolvimento da experiencia Open Finance PF no banco Next</li>
+</lo>
 
-  p.observation {
-    font-size: 10px;
-  }
-</style>
+Quatro anos no Itaú onde atuei nos projetos:
+<lo>
+  <li>Desenvolvimento da experiencia Open Finance PJ</li>
+  <li>Desenvolvimento do fluxo devolução Pix Web PF</li>
+  <li>Redesenho do fluxo de Pagamento Web PF</li>
+  <li>Redesenho do fluxo de Transferencia Web PF</li>
+</lo>
