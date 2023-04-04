@@ -12,10 +12,11 @@
 
 Um ano no Banco Next onde atuei nos projetos: 💼
 <lo>
-  <li>Desenvolvimento da experiencia Open Finance PF no banco Next</li>
+  <li>Desenvolvimento da experiencia Open Finance PF</li>
 </lo>
 
-<hr stle="border-top:1px solid;"></hr>
+<hr>
+</hr>
 
 Quatro anos no Itaú onde atuei nos projetos: 💼
 <lo>
@@ -24,3 +25,14 @@ Quatro anos no Itaú onde atuei nos projetos: 💼
   <li>Redesenho do fluxo de Pagamento Web PF</li>
   <li>Redesenho do fluxo de Transferencia Web PF</li>
 </lo>
+
+<h3>🧰 Competências</h3>
+<p dir="auto">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"
+    alt="JavaScript" width="50" height="50" style="max-width: 100%;">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg"
+    alt="NodeJS" width="50" height="50" style="max-width: 100%;">
+  <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" style="max-width: 100%;">
+</p>
