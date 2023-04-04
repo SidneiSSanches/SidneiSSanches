@@ -4,7 +4,6 @@
 <hr style="border-top:1px solid;"></hr>
 
 Meu nome é Sidnei, Desenvolvedor Full-Stack de dia e protejo os livros de poeira durante a noite
-(@blade-ui-kit,@thenpingme,@pestphp);
 
 <hr stle="border-top:1px solid;"></hr>
 
