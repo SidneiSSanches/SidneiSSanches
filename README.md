@@ -21,12 +21,6 @@ Quatro anos no Itaú onde atuei nos projetos: 💼
 </lo>
 
 <h3>🧰 Competências</h3>
-<p dir="auto">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"
-    alt="JavaScript" width="50" height="50" style="max-width: 100%;">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg"
-    alt="NodeJS" width="50" height="50" style="max-width: 100%;">
-  <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" style="max-width: 100%;">
-</p>
+(Java 8| Angular 8| Java Script| Angular JS| GIT| JUnit| Mockito| HTML| Spring Boot)
+
+Conhecimento em metodologias ágeis (Scrum| Kanbam| Lean)
